@@ -32,9 +32,13 @@ Django, AWS , Mysql, Docker
 대중교통 시각화
 - 서울 대중교통 시각화
 https://waste-of-movement.tistory.com/2
+
+-
 자동차 분류
 - 데이터 수집, 전이학습, Fine Tuning
 https://waste-of-movement.tistory.com/4
+
+-
 자연재난 (진행중)
 - 데이터 수집, 분석, 전처리, 시각화, 예측 및 피해 규모등
 https://waste-of-movement.tistory.com/5
