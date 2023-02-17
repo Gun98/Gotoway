@@ -39,6 +39,6 @@ https://waste-of-movement.tistory.com/2
 https://waste-of-movement.tistory.com/4
 
 -
-자연재난 (진행중)
+자연재난
 - 데이터 수집, 분석, 전처리, 시각화, 예측 및 피해 규모등
 https://waste-of-movement.tistory.com/5
